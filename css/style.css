@@ -453,7 +453,7 @@ header.sticky{
 	position: relative;
 	width: 100%;
 	height: 100vh;
-	background: url(../img/germany6.jpg);
+	background: url(../img/germany4.jpg);
 	background-size: cover;
 	background-position: center;
 	display: grid;
@@ -467,6 +467,7 @@ header.sticky{
 	font-family: 'Paytone One', sans-serif;
 	letter-spacing: 4px;
 	margin-bottom: 20px;
+	margin-top: 10%;
 }
 .about-text p{
 	color: #ffffffbf;
