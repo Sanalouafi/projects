@@ -670,4 +670,15 @@ header.sticky{
 		height: 85vh;
 		transition: .2s;
 	}
+}@media (min-width: 312px) {
+    .contactUs {
+        grid-template-columns: repeat(1, 1fr);
+		height: 50%;
+    }
+    #contact-form {
+        width: 50%;
+    }
+    #contact-image {
+        width: 50%;
+    }
 }
